@@ -1,0 +1,42 @@
+<svg width="400" height="600" viewBox="0 0 400 600" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <!-- Фон (пергамент с текстурой) -->
+  <defs>
+    <pattern id="texture" patternUnits="userSpaceOnUse" width="100" height="100">
+      <image xlink:href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMDAiIGhlaWdodD0iMTAwIiBvcGFjaXR5PSIwLjEiPgogIDxyZWN0IHdpZHRoPSIxMDAiIGhlaWdodD0iMTAwIiBmaWxsPSIjZmZmIi8+CiAgPHBhdGggZD0iTTAgMCBMIDEwMCAxMDAgTSAxMDAgMCBMIDAgMTAwIiBzdHJva2U9IiNjY2MiIHN0cm9rZS13aWR0aD0iMSIvPgo8L3N2Zz4=" width="100" height="100"/>
+    </pattern>
+    <!-- Греческий меандр -->
+    <path id="meander" d="M0,0 L10,0 L10,10 L20,10 L20,0 L30,0 L30,10 L40,10 L40,0 L50,0" stroke="#8B0000" fill="none" stroke-width="2"/>
+  </defs>
+  
+  <!-- Основа этикетки -->
+  <rect width="400" height="600" rx="15" ry="15" fill="#F5E6C8" stroke="#D4A017" stroke-width="3"/>
+  <rect x="20" y="20" width="360" height="560" rx="10" ry="10" fill="url(#texture)" stroke="#8B0000" stroke-width="1" opacity="0.9"/>
+  
+  <!-- Меандры по краям -->
+  <use xlink:href="#meander" x="50" y="50" transform="rotate(0)"/>
+  <use xlink:href="#meander" x="300" y="50" transform="rotate(0)"/>
+  <use xlink:href="#meander" x="50" y="530" transform="rotate(180)"/>
+  <use xlink:href="#meander" x="300" y="530" transform="rotate(180)"/>
+  
+  <!-- Виноградная лоза -->
+  <path d="M100,150 C150,100 250,120 300,150 C350,180 320,250 280,280 C240,310 160,290 120,250 C80,210 90,170 100,150 Z" fill="none" stroke="#6B8E23" stroke-width="8" stroke-linecap="round"/>
+  <!-- Виноградные листья -->
+  <path d="M150,180 C170,160 190,170 180,190 C170,210 150,200 150,180 Z" fill="#6B8E23"/>
+  <path d="M220,200 C240,180 260,190 250,210 C240,230 220,220 220,200 Z" fill="#6B8E23"/>
+  <!-- Гроздь винограда -->
+  <circle cx="180" cy="250" r="12" fill="#4B0082"/>
+  <circle cx="190" cy="230" r="12" fill="#4B0082"/>
+  <circle cx="210" cy="240" r="12" fill="#4B0082"/>
+  
+  <!-- Название вина (греческий стиль) -->
+  <text x="200" y="400" font-family="Georgia" font-size="36" fill="#8B0000" text-anchor="middle" font-weight="bold">ΟΛΥΜΠΙΟΣ</text>
+  <text x="200" y="430" font-family="Arial" font-size="16" fill="#555" text-anchor="middle">Αμπέλι της Ελλάδας</text>
+  
+  <!-- Декоративный свиток -->
+  <path d="M100,450 L300,450 C320,450 330,460 330,480 C330,500 320,510 300,510 L100,510 C80,510 70,500 70,480 C70,460 80,450 100,450 Z" fill="#FFF" stroke="#8B0000" stroke-width="1" opacity="0.8"/>
+  <text x="200" y="490" font-family="Times New Roman" font-size="14" fill="#000" text-anchor="middle">Παρήγαγε το 2022 | Πελοπόννησος</text>
+  
+  <!-- Печать -->
+  <circle cx="200" cy="540" r="30" fill="#F5E6C8" stroke="#8B0000" stroke-width="2"/>
+  <text x="200" y="545" font-family="Courier New" font-size="10" fill="#8B0000" text-anchor="middle" font-weight="bold">ΑΥΘΕΝΤΙΚΟ</text>
+</svg>

@@ -10,26 +10,26 @@
 ## Технологии
 
 * [![TypeScript][TypeScript]][TypeScript-url]
-* [![React][React.js]][React-url]
-* [![TypeScript][TypeScript]][TypeScript-url]
+* [![React][React]][React-url]
 * [![Redux][Redux]][Redux-url]
-* [![ReactRouter][ReactRouter]][ReactRouter-url]
 * [![ReactRouter][ReactRouter]][ReactRouter-url]
 * [![Webpack][Webpack]][Webpack-url]
 
-
-
 <p align="right">(<a href="#readme-top">наверх</a>)</p>
 
-[ReactRouter]:https://img.shields.io/badge/ReactRouter-101010?style=for-the-badge&logo=reactrouter&logoColor=CA4245
-[React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
-[TypeScript]: https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=FFFFFF&color=3178C6
-[Redux]: https://img.shields.io/badge/redux-764ABC?style=for-the-badge&logo=redux&logoColor=FFFFFF&color=764ABC
-[Webpack]: https://img.shields.io/badge/webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=FFFFFF&color=8DD6F9
 
-aa
+
+<!-- Бейджи -->
+[React]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
+[TypeScript]: https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=FFFFFF&color=3178C6
+[Redux]: https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=FFFFFF&color=764ABC
+[ReactRouter]: https://img.shields.io/badge/ReactRouter-101010?style=for-the-badge&logo=reactrouter&logoColor=CA4245
+[Webpack]: https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=FFFFFF&color=8DD6F9
+
+<!-- Ссылки -->
 [React-url]: https://reactjs.org/
-[ReactRouter-url]: https://reactrouter.com/
 [TypeScript-url]: https://www.typescriptlang.org/
 [Redux-url]: https://redux.dev/
+[ReactRouter-url]: https://reactrouter.com/
 [Webpack-url]: https://webpack.js.org/
+

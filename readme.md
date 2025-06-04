@@ -17,7 +17,31 @@
 
 <p align="right">(<a href="#readme-top">наверх</a>)</p>
 
+## Установка и запуск
+Для установки и запуска проекта необходимо выполнить команды
 
+```
+npm install
+npm run start
+```
+
+или
+
+```
+yarn
+yarn start
+```
+## Сборка
+
+```
+npm run build
+```
+
+или
+
+```
+yarn build
+```
 
 <!-- Бейджи -->
 [React]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB

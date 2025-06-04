@@ -14,6 +14,7 @@
 * [![TypeScript][TypeScript]][TypeScript-url]
 * [![Redux][Redux]][Redux-url]
 * [![ReactRouter][ReactRouter]][ReactRouter-url]
+* [![ReactRouter][ReactRouter]][ReactRouter-url]
 * [![Webpack][Webpack]][Webpack-url]
 
 

@@ -1,9 +1,11 @@
 <a id="readme-top"></a>
-# О проекте
-<a href="https://www.tune-it.ru/web/leksa/blog/-/blogs/1996258" style="width: 100%;border: 3px solid #444; border-radius: 8px; padding: 6px; display: inline-block;">
-<h3 align="center" style="color: #fff">Перейти на проект</h3>
-  <img  style="width: 100%; border-radius: 2px; display: block" src="https://files.lukumka-dev.ru/stellar-burgers.png" alt="Demo" width="300">
-</a>
+# Stellar Burgers
+#
+
+<a align="center" href="https://example.com" style="font-size: 24px; color:#fff">Ссылка на проект</a>
+
+
+<img  style="width: 100%; border-radius: 2px; display: block" src="https://files.lukumka-dev.ru/stellar-burgers.png" alt="Demo" width="300">
 
 ##### Stellar-Burgers - это интерактивный веб-сайт, позволяющий пользователям собирать собственные бургеры из доступных ингредиентов. Проект включает систему авторизации с регистрацией, логином и личным кабинетом.
 

@@ -1,14 +1,9 @@
-## About The Project
+## О проекте
 
-[![Product Name Screen Shot][product-screenshot]](https://cdn-img.perekrestok.ru/i/400x400-fit/xdelivery/files/bf/bb/226f2c676xd98816dc86b215db78.jpg)
+<div style="border: 3px solid #444; border-radius: 8px; padding: 6px; display: inline-block;">
+  <img style="border-radius: 2px; display: block" src="https://files.lukumka-dev.ru/stellar-burgers.png" alt="Demo" width="300">
+</div>
 
-There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
+Stellar-Burgers -  это интерактивный веб-сайт, позволяющий пользователям собирать собственные бургеры из доступных ингредиентов. Проект включает систему авторизации с регистрацией, логином и личным кабинетом.
 
-Here's why:
-* Your time should be focused on creating something amazing. A project that solves a problem and helps others
-* You shouldn't be doing the same tasks over and over like creating a README from scratch
-* You should implement DRY principles to the rest of your life :smile:
 
-Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have contributed to expanding this template!
-
-Use the `BLANK_README.md` to get started.

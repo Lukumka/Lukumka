@@ -1,1 +1,0 @@
-start "" C:\Users\user\Desktop\Projects\zakrivayuschiy-teg-f\index.html
